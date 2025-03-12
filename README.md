@@ -5,10 +5,10 @@
 
 ## Group Members:
 
-1. Ryan Buckley @rwb11687
+1. Ryan Buckley [@rwb11687](https://www.github.com/rwb11687)
 2. Suba Senthil
 3. Ayush Desai
 4. Mithun Fernandez
-5. Alex Waller @alexwaller05
+5. Alex Waller [@alexwaller05](https://www.github.com/alexwaller05)
 
 ## Task Description:
