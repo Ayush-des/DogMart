@@ -21,8 +21,12 @@ Explanation of data model:
 <img width="535" alt="Suppliers Table" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
 <img width="532" alt="Products Table" src="https://github.com/user-attachments/assets/53e482a9-66a2-4464-8fb2-94721d7cd730" />
 <img width="524" alt="Department Table" src="https://github.com/user-attachments/assets/bdf39f95-3438-438e-bb8c-b5236eda2ebe" />
-
-
+<img width="529" alt="Employee Table" src="https://github.com/user-attachments/assets/571be308-b039-4eb3-8f36-1725b9510ff8" />
+<img width="518" alt="Store Table" src="https://github.com/user-attachments/assets/cbc0bd03-1386-47fc-911f-1d9117b96b5c" />
+<img width="525" alt="Inventory Table" src="https://github.com/user-attachments/assets/064f4f0e-94fe-4749-b225-c785fb0bc5e3" />
+<img width="525" alt="OrderDetails Table" src="https://github.com/user-attachments/assets/49563b4a-179f-4227-a754-b377e0708a4b" />
+<img width="528" alt="Transactions Table" src="https://github.com/user-attachments/assets/4b726b54-ba4c-465b-afeb-7bc853063dc5" />
+<img width="520" alt="Customers Table" src="https://github.com/user-attachments/assets/d75a8f29-1878-4965-9b7d-18e4fdf46a1e" />
 
 ## Queries
 
