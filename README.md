@@ -42,4 +42,21 @@ Lastly, the Store entity represents physical store locations with their address 
 
 ## Queries
 
+4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
+   
+![image](https://github.com/user-attachments/assets/80dad699-4ff9-4b1b-babd-9953e7f6cf94)
+
+ADD EXPLANATION OF WHY THIS IS USEFUL HERE**
+
+5. Query 5 lists the payment methods for transactions that did not have a coupon associated with them.
+
+![image](https://github.com/user-attachments/assets/3edac6d9-178d-4eb5-8320-656282325077)
+
+ADD EXPLANATION OF WHY THIS IS USEFUL HERE
+
+
 ## Database Information:
+
+Name of the database: ns_Sp25_21482_Group8
+
+Additional clarifying information: Within the database, each query is marked as a stored procedure that can be called using the following format: CALL TP_Q1(); and so on.
