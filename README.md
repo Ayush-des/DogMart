@@ -18,6 +18,8 @@
 Explanation of data model:
 
 ## Data Dictionary
+<img width="535" alt="Screenshot 2025-03-17 at 2 25 15 PM" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
+
 
 ## Queries
 
