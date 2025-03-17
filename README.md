@@ -12,3 +12,13 @@
 5. Alex Waller [@alexwaller05](https://www.github.com/alexwaller05)
 
 ## Task Description:
+
+## Data Model:
+
+Explanation of data model:
+
+## Data Dictionary
+
+## Queries
+
+## Database Information:
