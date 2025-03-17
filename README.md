@@ -18,7 +18,10 @@
 Explanation of data model:
 
 ## Data Dictionary
-<img width="535" alt="Screenshot 2025-03-17 at 2 25 15 PM" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
+<img width="535" alt="Suppliers Table" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
+<img width="532" alt="Products Table" src="https://github.com/user-attachments/assets/53e482a9-66a2-4464-8fb2-94721d7cd730" />
+<img width="524" alt="Department Table" src="https://github.com/user-attachments/assets/bdf39f95-3438-438e-bb8c-b5236eda2ebe" />
+
 
 
 ## Queries
