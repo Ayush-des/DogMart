@@ -17,6 +17,17 @@
 
 Explanation of data model:
 
+Our model is based on the structure of a retail store management system. The Department entity represents different departments within the store (such as Electronics, Clothing, Groceries, etc.). Each department has many employees, which is represented by the one-to-many relationship between the Department and Employee entities. Employees are also assigned to specific Store locations, which is shown by a one-to-many relationship between Store and Employee.
+
+The Products entity stores item details, including name, category, and price. Products are supplied by Suppliers, forming a one-to-many relationship since one supplier can provide multiple products. Products also belong to Departments and are tracked in Inventory, which records stock levels across different Stores, establishing one-to-many relationships between Products and Inventory and Store and Inventory.
+
+Customer purchases are managed through several entities. The Customers entity holds customer details, while Transactions capture purchase information such as date, total amount, and payment method. Each Customer can make multiple Transactions. Because a transaction can involve multiple products, and each product can appear in multiple transactions, the OrderDetails entity serves as an associative table linking Transactions and Products, storing details such as quantity and price per item, which can be helpful when creating receipts for customers.
+
+The system also handles promotions through the Coupons entity, which stores discount information and expiration dates. Coupons can be applied to transactions, represented by a one-to-many relationship between Coupons and Transactions.
+
+Lastly, the Store entity represents physical store locations with their address and contact information. Stores maintain inventory levels, which is represented by the one-to-many relationship between Store and Inventory entities.
+
+
 ## Data Dictionary
 <img width="535" alt="Suppliers Table" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
 <img width="532" alt="Products Table" src="https://github.com/user-attachments/assets/53e482a9-66a2-4464-8fb2-94721d7cd730" />
