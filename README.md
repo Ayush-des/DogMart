@@ -13,6 +13,10 @@
 
 ## Task Description:
 
+The goal is to design and implement a relational database that effectively models the operations of a retail store management system. At the core of this system is the Store entity, representing each physical retail location. Each store oversees multiple Departments, employs Employees, manages Inventory, and serves Customers who make purchases.
+
+The database must accurately track Products sold, their Suppliers, and stock levels across different locations. It also records Transactions, capturing essential details such as purchased items, quantities, payment methods, and applied Coupons. By structuring this data effectively, we aim to generate sample datasets, populate the entities with relevant information, and execute insightful queries to support business decisions related to sales performance, inventory management, and customer purchasing trends.
+
 ## Data Model:
 
 Explanation of data model:
