@@ -52,6 +52,7 @@ Lastly, the Store entity represents physical store locations with their address 
 
 **Query 1** <br>
 Query 1 lists all product names along with their total quantity sold, ordering the results in descending order based on total sales.
+<img width="1265" alt="Query 1" src="https://github.com/user-attachments/assets/13a47269-d131-4156-88a4-4007b6b21ff0" />
 
 Query 1 helps managers identify their best-selling products, which can help them with inventory planning, restocking decisions, and marketing strategies. By listing the results in descending order, managers can quickly determine which products are in the highest demand and which ones may require more attention because of low sales.
 
