@@ -50,6 +50,12 @@ Lastly, the Store entity represents physical store locations with their address 
 
 ADD FINISHED QUERY TABLE HERE**
 
+1. Query 1 lists all product names along with their total quantity sold, ordering the results in descending order based on total sales.
+
+Query 1 helps managers identify their best-selling products, which can help them with inventory planning, restocking decisions, and marketing strategies. By listing the results in descending order, managers can quickly determine which products are in the highest demand and which ones may require more attention because of low sales.
+
+2. Query 2 identifies stores where inventory levels for particular product categories fall below the average inventory level for those categories across all stores.
+
 4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
    
 ![image](https://github.com/user-attachments/assets/e9918084-175a-4904-8db2-ea7b4094a7d6)
