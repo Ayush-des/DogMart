@@ -48,7 +48,8 @@ Lastly, the Store entity represents physical store locations with their address 
 
 ## Queries
 
-ADD FINISHED QUERY TABLE HERE**
+![Screenshot 2025-03-18 at 5 07 47 PM](https://github.com/user-attachments/assets/3cd3d57c-e672-4f49-b1b9-ae74b5c35cdb)
+
 
 1. Query 1 lists all product names along with their total quantity sold, ordering the results in descending order based on total sales.
 
@@ -58,15 +59,32 @@ Query 1 helps managers identify their best-selling products, which can help them
 
 4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
    
-![image](https://github.com/user-attachments/assets/e9918084-175a-4904-8db2-ea7b4094a7d6)
+<img width="1477" alt="Screenshot 2025-03-18 at 4 59 31 PM" src="https://github.com/user-attachments/assets/60fb29a2-33cd-4426-828f-6aacd6d73954" />
+
 
 Query 4 allows the store to see which items are priced above the average price for that department so that they can reevaluate if products are priced too highly or not. Using these product names, they can investigate consumer purchase behavior for these departments and evaluate each product's profitability based on the average quantity purchased for the products returned by this query.
 
 5. Query 5 counts the number of times each payment method is used in a transaction that does not have a coupon associated with it.
 
-![image](https://github.com/user-attachments/assets/0979dff6-7a32-4218-b214-b78b4feb8e56)
+<img width="1480" alt="Screenshot 2025-03-18 at 7 24 11 PM" src="https://github.com/user-attachments/assets/4ceb7988-0834-4cec-87b2-adf15318707f" />
+
 
 Query 5 allows the store to evaluate which forms of payment are most frequently used in transactions without a coupon. If credit or debit cards are a popular payment type, this can indicate that customers are more fond of digital payment methods, and digital coupons should be promoted more frequently. However, if most of these transactions are made using cash, one can reasonably make the conclusion that advertising traditional coupons may be more effective, solely because these customers prefer traditional payment methods as opposed to digital payment methods.
+
+9. Query 9 lists the customers who have spent more than the average amount across all transactions. The results are ordered by total spending in descending order.
+
+<img width="1477" alt="Screenshot 2025-03-18 at 5 02 38 PM" src="https://github.com/user-attachments/assets/103c8513-6373-4408-83ae-5639f1ebe22f" />
+
+
+Query 9 allows managers to understand these premium customers better so they can implement targeted loyalty programs and personalized marketing strategies. Managers can use this information to prioritize customer service resources, develop exclusive offers for top spenders, and analyze common characteristics among high-value customers to identify potential new premium customers. Understanding spending patterns also helps in forecasting revenue and planning inventory for products that appeal to these valuable customers.
+
+
+10. Query 10 lists the products that have never been sold, along with their current stock levels.
+
+<img width="1477" alt="Screenshot 2025-03-18 at 5 04 10 PM" src="https://github.com/user-attachments/assets/ff460f44-678e-4988-aeb0-84d5e6310768" />
+
+Query 10 helps managers identify products that have never been sold and their current stock levels. This information is crucial for inventory management, as it highlights products that may need promotions or discounts to clear stock. By addressing these unsold products, managers can optimize inventory turnover and reduce storage costs. The query provides a clear list of products that require attention, making it easier to prioritize actions such as marketing campaigns or clearance sales.
+
 
 ## Database Information:
 
