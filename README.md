@@ -1,4 +1,4 @@
-# Groceries - Group 8 MIST 4610 Group Project 1
+# DawgMart - Group 8 MIST 4610 Group Project 1
 
 ## Group Name:
 21482 Group 8
