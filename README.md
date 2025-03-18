@@ -53,7 +53,8 @@ Lastly, the Store entity represents physical store locations with their address 
 
 4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
    
-![image](https://github.com/user-attachments/assets/e9918084-175a-4904-8db2-ea7b4094a7d6)
+<img width="1477" alt="Screenshot 2025-03-18 at 4 59 31 PM" src="https://github.com/user-attachments/assets/60fb29a2-33cd-4426-828f-6aacd6d73954" />
+
 
 Query 4 allows the store to see which items are priced above the average price for that department so that they can reevaluate if products are priced too highly or not. Using these product names, they can investigate consumer purchase behavior for these departments and evaluate each product's profitability based on the average quantity purchased for the products returned by this query.
 
