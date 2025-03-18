@@ -48,7 +48,8 @@ Lastly, the Store entity represents physical store locations with their address 
 
 ## Queries
 
-ADD FINISHED QUERY TABLE HERE**
+![Screenshot 2025-03-18 at 5 07 47 PM](https://github.com/user-attachments/assets/3cd3d57c-e672-4f49-b1b9-ae74b5c35cdb)
+
 
 4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
    
