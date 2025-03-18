@@ -56,9 +56,9 @@ Lastly, the Store entity represents physical store locations with their address 
 
 Query 4 allows the store to see which items are priced above the average price for that department so that they can reevaluate if products are priced too highly or not. Using these product names, they can investigate consumer purchase behavior for these departments and evaluate each product's profitability based on the average quantity purchased for the products returned by this query.
 
-5. Query 5 lists the payment methods for transactions that did not have a coupon associated with them.
+5. Query 5 counts the number of times each payment method is used in a transaction that does not have a coupon associated with it.
 
-![image](https://github.com/user-attachments/assets/386d5084-c0b0-4fe6-98d3-c9fea0f388e4)
+![image](https://github.com/user-attachments/assets/0979dff6-7a32-4218-b214-b78b4feb8e56)
 
 Query 5 allows the store to evaluate which forms of payment are most frequently used in transactions without a coupon. If credit or debit cards are a popular payment type, this can indicate that customers are more fond of digital payment methods, and digital coupons should be promoted more frequently. However, if most of these transactions are made using cash, one can reasonably make the conclusion that advertising traditional coupons may be more effective, solely because these customers prefer traditional payment methods as opposed to digital payment methods.
 
