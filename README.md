@@ -57,7 +57,7 @@ Query 1 helps managers identify their best-selling products, which can help them
 
 2. Query 2 identifies stores where inventory levels for particular product categories fall below the average inventory level for those categories across all stores.
 
-4. Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
+Query 4 lists the product names and prices for products that have a higher buy price than the average buy price in their specific department. It also orders them from highest price to lowest price.
    
 <img width="1477" alt="Screenshot 2025-03-18 at 4 59 31 PM" src="https://github.com/user-attachments/assets/60fb29a2-33cd-4426-828f-6aacd6d73954" />
 
