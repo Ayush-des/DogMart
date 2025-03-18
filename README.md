@@ -27,6 +27,8 @@ The system also handles promotions through the Coupons entity, which stores disc
 
 Lastly, the Store entity represents physical store locations with their address and contact information. Stores maintain inventory levels, which is represented by the one-to-many relationship between Store and Inventory entities.
 
+<img width="960" alt="Screenshot 2025-03-11 at 2 42 51 PM" src="https://github.com/user-attachments/assets/0821a039-43ac-40d0-aca9-d1555added4f" />
+
 
 ## Data Dictionary
 <img width="535" alt="Suppliers Table" src="https://github.com/user-attachments/assets/d2781671-c9ae-4a49-adca-de6cb8118c95" />
