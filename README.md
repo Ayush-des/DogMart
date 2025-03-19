@@ -42,7 +42,7 @@ Lastly, the Store entity represents physical store locations with their address 
 <img width="521" alt="Store Table" src="https://github.com/user-attachments/assets/90558612-4ee5-4d13-b342-c9909c648991" />
 <img width="525" alt="Inventory Table" src="https://github.com/user-attachments/assets/064f4f0e-94fe-4749-b225-c785fb0bc5e3" />
 <img width="525" alt="OrderDetails Table" src="https://github.com/user-attachments/assets/49563b4a-179f-4227-a754-b377e0708a4b" />
-<img width="528" alt="Transactions Table" src="https://github.com/user-attachments/assets/4b726b54-ba4c-465b-afeb-7bc853063dc5" />
+<img width="670" alt="Transactions Table" src="https://github.com/user-attachments/assets/f6cbd7ad-9971-4067-9813-043564366ea5" />
 <img width="518" alt="Coupons Table" src="https://github.com/user-attachments/assets/08f2f1ca-b2d1-4044-9714-c43fcbcee41e" />
 <img width="520" alt="Customers Table" src="https://github.com/user-attachments/assets/d75a8f29-1878-4965-9b7d-18e4fdf46a1e" />
 
