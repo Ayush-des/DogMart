@@ -69,7 +69,7 @@ Query 2 helps managers identify stores that may need to be restocked. Having eno
 **Query 3**<br>
 Query 3 retrieves a list of all product names along with the total quantity of each product currently in stock and then sorted in descending order by their stock quantity.
 
-<img width="1477" alt="Screenshot 2025-03-18 at 4 59 31 PM" src="https://github.com/user-attachments/assets/ffee024f-1d07-431b-ae2b-297c27c22a19" />
+<img width="1480" alt="Screenshot 2025-03-18 at 8 18 12 PM" src="https://github.com/user-attachments/assets/204fd714-c62a-4d46-a9a1-485d2782e4aa" />
 
 
 Query 3 helps managers keep track of inventory levels and whether the stock is too high, too low, or optimal. Having optimal levels of stock prevents overstock and stockouts, which can either increase costs unnecessarily or lose sales. This information helps managers make informed decisions about reordering, promotions, and managing inventory.
