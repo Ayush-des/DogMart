@@ -104,21 +104,20 @@ Query 7 identifies which stores have inventory shortages so that these stores ca
 <img width="1480" alt="Screenshot 2025-03-18 at 8 19 40 PM" src="https://github.com/user-attachments/assets/90aa8c95-2e92-42dd-a49d-648ed451686a" />
 
 
-
 Query 7 lists stores with their ID, address, phone number, and total inventory quantity. These stores have less total inventory than the average across all stores. The list is ordered from lowest to highest inventory, so stores with the most critical shortages appear first, making it easy for managers to prioritize which locations to contact for restocking.
 
 **Query 8**<br>
 Query 8 lists all of the most popular products by calculating the total quantity sold for each item and then sorting them by most sold to least sold.
 
-<img width="1477" alt="Screenshot 2025-03-18 at 5 02 03 PM" src="https://github.com/user-attachments/assets/a7009cc9-df2b-4475-88f7-c491884b2d05" />
+<img width="1480" alt="Screenshot 2025-03-18 at 8 20 48 PM" src="https://github.com/user-attachments/assets/7da15ec3-df39-4556-89cc-a593c23f9163" />
 
 
-Query 8 helps store managers make critical inventory decisions by highlighting which products to keep well-stocked, determine optimal shelf placement for high-selling items, and identify potential candidates for promotional bundles or special displays. Understanding top-selling products also guides purchasing decisions and helps prevent costly stockouts of items customers expect to find.
+Query 8 helps store managers make critical inventory decisions by highlighting which products to keep well-stocked, determining optimal shelf placement for high-selling items, and identifying potential candidates for promotional bundles or special displays. Understanding top-selling products also guides purchasing decisions and helps prevent costly stockouts of items customers expect to find.
 
 **Query 9**<br>
 Query 9 lists the customers who have spent more than the average amount across all transactions. The results are ordered by total spending in descending order.
 
-<img width="1477" alt="Screenshot 2025-03-18 at 5 02 38 PM" src="https://github.com/user-attachments/assets/4fd4c530-2da6-4997-96f7-24eca164dbad" />
+<img width="1480" alt="Screenshot 2025-03-18 at 8 21 24 PM" src="https://github.com/user-attachments/assets/aff67c91-56da-45ac-8043-decfc0c858b8" />
 
 
 Query 9 allows managers to understand these premium customers better so they can implement targeted loyalty programs and personalized marketing strategies. Managers can use this information to prioritize customer service resources, develop exclusive offers for top spenders, and analyze common characteristics among high-value customers to identify potential new premium customers. Understanding spending patterns also helps in forecasting revenue and planning inventory for products that appeal to these valuable customers.
@@ -126,7 +125,7 @@ Query 9 allows managers to understand these premium customers better so they can
 **Query 10**<br>
 Query 10 lists the products that have never been sold, along with their current stock levels.
 
-<img width="1477" alt="Screenshot 2025-03-18 at 5 04 10 PM" src="https://github.com/user-attachments/assets/e05c8f4a-da8c-4716-a57c-cd64f6a639a5" />
+<img width="1480" alt="Screenshot 2025-03-18 at 8 21 49 PM" src="https://github.com/user-attachments/assets/1b8cc4fe-063b-46a1-809a-12ae25f95edd" />
 
 
 Query 10 helps managers identify products that have never been sold and their current stock levels. This information is crucial for inventory management, as it highlights products that may need promotions or discounts to clear stock. By addressing these unsold products, managers can optimize inventory turnover and reduce storage costs. The query provides a clear list of products that require attention, making it easier to prioritize actions such as marketing campaigns or clearance sales.
