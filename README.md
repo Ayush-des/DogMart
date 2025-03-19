@@ -52,52 +52,72 @@ Lastly, the Store entity represents physical store locations with their address 
 
 **Query 1** <br>
 Query 1 lists all product names along with their total quantity sold, ordering the results in descending order based on total sales.
+
 PICTURE HERE!
+
 Query 1 helps managers identify their best-selling products, which can help them with inventory planning, restocking decisions, and marketing strategies. By listing the results in descending order, managers can quickly determine which products are in the highest demand and which ones may require more attention because of low sales.
 
 **Query 2**<br>
 Query 2 identifies stores where inventory levels for particular product categories fall below the average inventory level for those categories across all stores.
+
 PICTURE HERE!
+
 Query 2 helps managers identify stores that may need to be restocked. Having enough inventory in all stores helps improve sales opportunities, enhances customer satisfaction, and prevents some products from being completely out of stock that would lead to lost sales.
 
 **Query 3**<br>
 Query 3 retrieves a list of all product names along with the total quantity of each product currently in stock and then sorted in descending order by their stock quantity.
+
 PICTURE HERE!
+
 Query 3 helps managers keep track of inventory levels and whether the stock is too high, too low, or optimal. Having optimal levels of stock prevents overstock and stockouts, which can either increase costs unnecessarily or lose sales. This information helps managers make informed decisions about reordering, promotions, and managing inventory.
 
 **Query 4**<br>
 Query 4 lists the products that are priced higher than the average for their department and orders them from highest to lowest price
+
 PICTURE HERE!
+
 Query 4 helps store managers determine which of the higher-priced products would require a higher profit margin. Understanding which products are above their department average helps with pricing strategy, mark-up adjustments, and competitive pricing.
 
 **Query 5**<br>
 Query 5 counts the number of times each payment method is used for transactions that did not have a coupon associated with them.
+
 PICTURE HERE!
+
 Query 5 allows for the store manager to see if a customer pays with a card (credit or debit) more often makes them not use a coupon and therefore, if they should use more digital advertisements because people aren’t using cash.
 
 **Query 6**<br>
 Query 6 lists customers who exclusively used credit cards as their payment method during March 2025, along with their complete transaction details.
+
 PICTURE HERE!
+
 Query 6 helps managers know which customers always pay with credit cards. This lets managers create special deals with credit card companies, decide if launching a store credit card would be worthwhile, and figure out which types of customers prefer using credit. Store managers can use this knowledge to plan what payment systems to invest in and develop better customer rewards programs.
 
 **Query 7**<br>
 Query 7 identifies which stores have inventory shortages so that these stores can be easily contacted to restock their inventory.
+
 PICTURE HERE!
+
 Query 7 lists stores with their ID, address, phone number, and total inventory quantity. These stores have less total inventory than the average across all stores. The list is ordered from lowest to highest inventory, so stores with the most critical shortages appear first, making it easy for managers to prioritize which locations to contact for restocking.
 
 **Query 8**<br>
 Query 8 lists all of the most popular products by calculating the total quantity sold for each item and then sorting them by most sold to least sold.
+
 PICTURE HERE!
+
 Query 8 helps store managers make critical inventory decisions by highlighting which products to keep well-stocked, determine optimal shelf placement for high-selling items, and identify potential candidates for promotional bundles or special displays. Understanding top-selling products also guides purchasing decisions and helps prevent costly stockouts of items customers expect to find.
 
 **Query 9**<br>
 Query 9 lists the customers who have spent more than the average amount across all transactions. The results are ordered by total spending in descending order.
+
 PICTURE HERE!
+
 Query 9 allows managers to understand these premium customers better so they can implement targeted loyalty programs and personalized marketing strategies. Managers can use this information to prioritize customer service resources, develop exclusive offers for top spenders, and analyze common characteristics among high-value customers to identify potential new premium customers. Understanding spending patterns also helps in forecasting revenue and planning inventory for products that appeal to these valuable customers.
 
 **Query 10**<br>
 Query 10 lists the products that have never been sold, along with their current stock levels.
+
 PICTURE HERE!
+
 Query 10 helps managers identify products that have never been sold and their current stock levels. This information is crucial for inventory management, as it highlights products that may need promotions or discounts to clear stock. By addressing these unsold products, managers can optimize inventory turnover and reduce storage costs. The query provides a clear list of products that require attention, making it easier to prioritize actions such as marketing campaigns or clearance sales.
 
 ## Database Information:
