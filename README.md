@@ -101,7 +101,8 @@ Query 6 helps managers know which customers always pay with credit cards. This l
 **Query 7**<br>
 Query 7 identifies which stores have inventory shortages so that these stores can be easily contacted to restock their inventory.
 
-<img width="1477" alt="Screenshot 2025-03-18 at 5 02 03 PM" src="https://github.com/user-attachments/assets/9081a483-bf03-4d51-b518-9a9d2b663655" />
+<img width="1480" alt="Screenshot 2025-03-18 at 8 19 40 PM" src="https://github.com/user-attachments/assets/90aa8c95-2e92-42dd-a49d-648ed451686a" />
+
 
 
 Query 7 lists stores with their ID, address, phone number, and total inventory quantity. These stores have less total inventory than the average across all stores. The list is ordered from lowest to highest inventory, so stores with the most critical shortages appear first, making it easy for managers to prioritize which locations to contact for restocking.
